@@ -1,0 +1,41 @@
+body{
+    background-color: #DBDFFD;
+    font-family: sans-serif;
+}
+table{
+    background-color: #9BA3EB;
+}
+hr{
+    border-style: none ;
+    border-color: #764AF1;
+    border-top-style: dotted;
+    width: 6% ;
+    border-width:5px; 
+}
+table{
+    border-style: none ;
+    border-color: #DBDFFD;
+    width: 6% ;
+    border-width:5px; 
+}
+h1{
+    color: #301E67;
+}
+h3{
+    color: #301E67;
+}
+h4{
+    color: #301E67;
+}
+#academia{
+    background-color:  #9BA3EB;
+}
+#skills{
+    background-color:  #9BA3EB;
+}
+.main{
+    color: #091353;
+    font-family:sans-serif;
+    font-feature-settings: "tnum";
+    font-optical-sizing: auto;
+}
